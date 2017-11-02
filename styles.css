@@ -1,4 +1,5 @@
 .header {
     background: rgb(235, 3, 3);
-   
+    display: flex;
+    justify-content: columns;
 }
