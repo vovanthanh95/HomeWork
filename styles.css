@@ -1,3 +1,5 @@
 .header {
     background: #ccc;
+    display: flex;
+    justify-content: columns;
 }
